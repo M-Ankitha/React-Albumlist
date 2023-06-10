@@ -1,5 +1,6 @@
 # React-Albumlist
-React Album list is a responsive gallery component
+React Album list is a responsive gallery component.
+
 React Album supports features - add new album, update and delete.
 
 Folder Structure:
